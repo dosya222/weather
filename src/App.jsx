@@ -24,7 +24,7 @@ const App = () => {
     </div>
   ) : (
     <div className="loading">
-      <img src={images.loading} alt="" />
+      <img src={images.loading} alt="" /> 
     </div>
   )
 }
